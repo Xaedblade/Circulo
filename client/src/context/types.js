@@ -1,0 +1,1 @@
+export const GET_VETERAN_STATUS = "GET_VETERAN_STATUS";
